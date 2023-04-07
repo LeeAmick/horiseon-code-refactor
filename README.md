@@ -12,7 +12,7 @@ N/A
 ---
 
 ## Usage
-LINK TO WEBSITE: 
+LINK TO WEBSITE: https://leeamick.github.io/horiseon-code-refactor/
 ![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/leeamick/code/bootcamp/homework/01-Refactor/assets/images/screenshot%20of%20website.png?version%3D1680834730098)
 
 ---
